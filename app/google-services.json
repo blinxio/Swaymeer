@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "690572605262",
+    "project_id": "swaymeer-337be",
+    "storage_bucket": "swaymeer-337be.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:690572605262:android:a208d56d447b529c49901f",
+        "android_client_info": {
+          "package_name": "com.blinxio.swaymeer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "690572605262-a1kstv1er56au1ennkvn2d36o06l2v0r.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.blinxio.swaymeer",
+            "certificate_hash": "1736f526d3a52154c67ffdf51a1cffae6574273b"
+          }
+        },
+        {
+          "client_id": "690572605262-b9rmq2s4cicb861gc55olfgv5h8a09lt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBZ3zXonYYK6Av4V_P5llfMbL00oBGbV4E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "690572605262-b9rmq2s4cicb861gc55olfgv5h8a09lt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
